@@ -1,6 +1,6 @@
-### INNOVATOR’s PATENT AGREEMENT (IPA), Version 1.0
+MODIFIED INNOVATOR’s PATENT AGREEMENT (IPA), Version 1.0
 
-This INNOVATOR’s PATENT AGREEMENT (“Agreement”) is made between the person(s) named below (collectively referred to as “Inventors”) and [COMPANY NAME], a [State of Incorporation] corporation, having a place of business at Company Address (“Company”).
+This MODIFIED INNOVATOR’s PATENT AGREEMENT (“Agreement”) is made between the person(s) named below (collectively referred to as “Inventors”) and [COMPANY NAME], a [State of Incorporation] corporation, having a place of business at Company Address (“Company”).
 
 WHEREAS the Inventors have invented certain patentable subject matter which they desire to assign to the Company;
 
@@ -28,17 +28,13 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
     including (a) any and all inventions and improvements (“Subject Matter”) disclosed therein; (b) all right of priority in the above application(s) and in any underlying provisional or foreign application; (c) all provisional, utility, divisional, continuation, substitute, renewal, reissue, and other applications related thereto which have been or may be filed in the United States or elsewhere in the world; and (d) all patents (“Patents”), including reissues and reexaminations, which may be granted on any of the above applications, together with all rights to recover damages for infringement, including infringement of provisional rights.
 
-2.  The Company, on behalf of itself and its successors, transferees, and assignees (collectively the “Assignee”), agrees not to assert any claims of any Patents which may be granted on any of the above applications unless asserted for a Defensive Purpose. An assertion of claims of the Patents shall be considered for a “Defensive Purpose” if the claims are asserted: 
+2.  The Company, on behalf of itself and its successors, transferees, and assignees (collectively the “Assignee”), agrees not to assert any claims of any Patents which may be granted on any of the above applications unless asserted for a Defensive Purpose. An assertion of claims of the Patents shall be considered for a “Defensive Purpose” if the claims are asserted against an Entity that has filed, maintained, threatened, or voluntarily participated in any patent infringement lawsuit against Assignee or any of Assignee’s users, affiliates, customers, suppliers, or distributors arising from use or distribution of Company's products or inventions. 
 
-    (a) against an Entity that has filed, maintained, threatened, or voluntarily participated in a patent infringement lawsuit against Assignee or any of Assignee’s users, affiliates, customers, suppliers, or distributors;
+To assert any of the Patent claims against any Entity for other than a Defensive Purpose, Assignees must obtain prior written permission from all of the Inventors or their heirs without additional consideration or threat. 
 
-    (b) against an Entity that has filed, maintained, or voluntarily participated in a patent infringement lawsuit against another in the past ten years, so long as the Entity has not instituted the patent infringement lawsuit defensively in response to a patent litigation threat against the Entity; or
-
-    (c) otherwise to deter a patent litigation threat against Assignee or Assignee’s users, affiliates, customers, suppliers, or distributors.
-
-    If Assignee needs to assert any of the Patent claims against any Entity for other than a Defensive Purpose, Assignees must obtain prior written permission from all of the Inventors without additional consideration or threat. 
-
-    “Entity” means an individual, partnership, corporation, limited liability company, association, joint venture, trust, unincorporated organization or other entity.  “Affiliate” means with respect to any Entity, any other Entity, whether or not existing on the date hereof, controlling controlled by or under common control with such first Entity.  The term “control” (including with correlative meaning the terms “controlled by” and “under common control with”), as used with respect to any Entity, means the possession, directly or indirectly, of the power to direct or cause the direction or management and policies of such Entity, whether through the ownership of voting securities, by contract or otherwise. 
+    “Entity” means an individual, partnership, corporation, limited liability company, association, joint venture, trust, unincorporated organization or other entity.  
+    
+    “Affiliate” means with respect to any Entity, any other Entity, whether or not existing on the date hereof, controlling controlled by or under common control with such first Entity.  The term “control” (including with correlative meaning the terms “controlled by” and “under common control with”), as used with respect to any Entity, means the possession, directly or indirectly, of the power to direct or cause the direction or management and policies of such Entity, whether through the ownership of voting securities, by contract or otherwise. 
 
     Assignee acknowledges and agrees that the above promises are intended to run with the Patents and are binding on any future owner, assignee or exclusive licensee who has been given the right to enforce any claims of the Patents against third parties. Assignee covenants with Inventors that any assignment or transfer of its right, title, or interest herein will be conveyed with the promises herein as an encumbrance.  
 
